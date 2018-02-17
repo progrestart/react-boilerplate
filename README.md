@@ -13,16 +13,16 @@ All “.scss” files are compiled to “assets/css/_main.css” file that is in
 
 To compile “.scss” files boilerplate uses “node-sass” compiler. 
 
-Boilerplate uses React router 4. All routes should be defined in “src/components/Router.js”. 
+Boilerplate uses REACT ROUTER 4. All routes should be defined in “src/components/Router.js”. 
 
 Getting started guide: 
 
-Clone the project to your local machine by executing: “git clone https://github.com/progrestart/react-boilerplate".
+1. Clone the project to your local machine by executing: “git clone https://github.com/progrestart/react-boilerplate".
 
 2. Type “npm i” to install all required dependencies. 
 
 3. Type “npm start” to run node-sass watcher and to start an application. 
 
-4(optional). Type “npm build” to build an application for production. 
+4(OPTIONAL). Type “npm build” to build an application for production. 
 
 All further configurations can be found here: https://github.com/facebook/create-react-app
