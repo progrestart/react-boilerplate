@@ -1,0 +1,14 @@
+/* 
+* Import global scss files
+*
+*/
+
+@import './_global.scss';
+@import './_mixins.scss';
+
+/* 
+* Import scss files for all components
+*
+*/
+
+@import '../../components/Home/Home.scss';
